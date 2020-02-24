@@ -12,7 +12,6 @@ NAMES = (['head_nod', 'head_pan', 'left_e0', 'left_e1',
           'left_s0', 'left_s1', 'left_w0', 'left_w1',
           'left_w2', 'right_e0', 'right_e1', 'right_s0',
           'right_s1', 'right_w0', 'right_w1', 'right_w2', 'torso_t0'])
-
 ANGLE_NAMES_R = ['right_s0', 'right_s1', 'right_e0', 'right_e1', 'right_w0', 'right_w1', 'right_w2']
 ANGLE_NAMES_L = ['left_s0', 'left_s1', 'left_e0', 'left_e1', 'left_w0', 'left_w1', 'left_w2']
 
